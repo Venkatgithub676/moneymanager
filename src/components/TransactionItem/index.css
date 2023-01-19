@@ -1,0 +1,31 @@
+/* Write your CSS here */
+
+.styles2 {
+  font-size: 12px;
+  font-weight: 400;
+  width: 20%;
+  font-family: 'roboto';
+  margin-left: 20px;
+  font-size: 14px;
+}
+
+.styles3 {
+  list-style-type: none;
+  display: flex;
+  border-left: 1px solid #d7dfe9;
+  border-bottom: 1px solid #d7dfe9;
+  border-right: 1px solid #d7dfe9;
+  align-items: center;
+  border-radius: 2px;
+}
+
+.btn-cls {
+  background-color: transparent;
+  border: none;
+}
+
+.img2 {
+  width: 20px;
+  height: 20px;
+  margin-left: 40px;
+}

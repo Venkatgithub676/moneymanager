@@ -1,0 +1,26 @@
+.list-item {
+  height: 100px;
+  list-style-type: none;
+  display: flex;
+  border-radius: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 30%;
+}
+
+.img1 {
+  height: 50px;
+  width: 50px;
+}
+
+.type-container {
+  margin-left: 30px;
+}
+
+.type-heading {
+  font-size: 20px;
+  font-family: 'roboto';
+}
+
+.amount {
+}
